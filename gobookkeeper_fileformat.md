@@ -15,5 +15,5 @@ Example
    
 
 
-(inofficial: maybe software should work with  +,-  or  credit/debit)
+(inofficial: maybe software should work with  +,-  or  credit/debit, now it uses German symbols S/H as described above)
     
