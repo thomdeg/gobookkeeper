@@ -12,6 +12,14 @@ Example
     ; the letter 'S' stands for debit  (German: "Soll")
     ; the symbol ++  calculates the missing value automatically
     ; (date in ISO-format yyyy-mm-dd)
+    
+    ; commands:
+    !! set year=2021
+    !! set number_sep = auto
+    !! include "./filename.dat"
+    
+    
+    
    
 
 
